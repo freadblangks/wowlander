@@ -23,19 +23,6 @@ BfaCore is mostly based on TrinityCore, written in c++ and sql.
 * Boost 1.66
 * MySql 5.7.32
 
-* Requirements (500Mb)
-
-https://www.mediafire.com/file/jp3vw0n13734f1e/Core_Requirements_Win64_2021_01_06.rar
-
-* Client Data (3.73Gb)
-
-https://www.mediafire.com/file/nv8y80zo6a6mtk6/BfaCore_ClientData_deDE_enUS_esES_esMX_frFR_itIT_koKR_ptBR_ruRU_zhCN_zhTW_8.3.7.35662_2021_01_06.rar
-
-* Minimal Client (686Mb)
-
-https://www.mediafire.com/file/alptz7hyjlalj95/WOW_BFA_8.3.7.35662_ENUS_BFACORE_MINIMAL.exe
-
-
 
 
 Software requirements are available in the TrinityCore [wiki](https://www.trinitycore.info/display/tc/Requirements) for
